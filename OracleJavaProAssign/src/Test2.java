@@ -16,12 +16,7 @@ public class Test2 {
 	            System.out.print("Multiplication of given no.s = ");
 	            System.out.println(num1 * num2);
 	      }     
-		 public static void main(String args[]){
-	            //method call from main method
-	            addition(20, 10);
-	            subtraction(20, 10);
-	            multiplication(20, 10);
-		 }
+		
 }
 
 

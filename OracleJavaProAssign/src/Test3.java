@@ -12,10 +12,8 @@ public class Test3 {
                 //Print Circle Area.
                 System.out.println("Circle perimeter: " + perimeter);
 	}
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-circleArea(10);
-circlePerimeter(20);
+	public void display()
+	{
+		System.out.println("test3 is executed");
 	}
-
 }

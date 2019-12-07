@@ -14,10 +14,8 @@ int area = length * breadth;
 	                  System.out.println("Rectangle Perimeter: " + perimeter);
 		}
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		rectangleArea(20, 30);
-		RectanglePerimeter(10,5);
+	public void display()
+	{
+		System.out.println("test4 is executed");
 	}
-
 }
